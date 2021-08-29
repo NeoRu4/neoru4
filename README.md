@@ -1,11 +1,11 @@
 ## Hi, today im full-stack developer 👨‍💻
 
-> **what am i doing**
-> 
-> - 👨‍🏫 analysis of technical orders
-> - 💼 projecting of decisions
-> - 💻 coding
-> 
+**what am i doing**
+
+- 👨‍🏫 analysis of technical orders
+- 💼 projecting of decisions
+- 💻 coding
+
 
 <!--
 **NeoRu4/neoru4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
